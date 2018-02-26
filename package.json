@@ -1,0 +1,25 @@
+{
+  "name": "daily-timer",
+  "version": "1.0.0",
+  "description": "create daily timers to schedule tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodneystar/daily-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "timers",
+    "daily",
+    "schedule"
+  ],
+  "author": "J Leighton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodneystar/daily-timer/issues"
+  },
+  "homepage": "https://github.com/Rodneystar/daily-timer#readme"
+}
